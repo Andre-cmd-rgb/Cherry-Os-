@@ -1,1 +1,2 @@
-# Cherry-Os-
+# Cherry-Os
+written in python
